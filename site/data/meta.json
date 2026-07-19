@@ -1,0 +1,16 @@
+{
+ "built": "2026-07-18",
+ "ch_release": "2026-07-09",
+ "counts": {
+  "people": 3626,
+  "interviewees": 400,
+  "ch_events_total": 64178,
+  "voices": 376,
+  "quotes_judged": 279,
+  "quotes_matched": 58,
+  "qid_links": 3013,
+  "name_links": 613,
+  "coperf_pairs": 2297,
+  "coperf_mutual": 173
+ }
+}

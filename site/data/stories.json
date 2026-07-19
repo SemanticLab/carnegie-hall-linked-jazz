@@ -1,0 +1,42 @@
+[
+ {
+  "id": "21054",
+  "label": "Benny Goodman and His Swing Orchestra",
+  "date": "1938-01-16",
+  "venue": "Main Hall",
+  "quotes": 5,
+  "featured": 24
+ },
+ {
+  "id": "34945",
+  "label": "Duke Ellington and His Orchestra",
+  "date": "1943-01-23",
+  "venue": "Main Hall",
+  "quotes": 0,
+  "featured": 18
+ },
+ {
+  "id": "15149",
+  "label": "Dizzy Gillespie and His Orchestra",
+  "date": "1947-09-29",
+  "venue": "Main Hall",
+  "quotes": 0,
+  "featured": 10
+ },
+ {
+  "id": "38441",
+  "label": "Midnight Performance: Jazz at the Philharmonic",
+  "date": "1949-09-18",
+  "venue": "Main Hall",
+  "quotes": 0,
+  "featured": 10
+ },
+ {
+  "id": "32427",
+  "label": "Benny Goodman 40th Anniversary Concert at Carnegie Hall",
+  "date": "1978-01-17",
+  "venue": "Main Hall",
+  "quotes": 1,
+  "featured": 7
+ }
+]
