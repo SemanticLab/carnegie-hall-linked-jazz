@@ -165,7 +165,7 @@ function pcard(p) {
   const span = p.first ? (p.first === p.last ? p.first : `${p.first}–${p.last}`) : "";
   return `<a class="pcard" href="#/person/${p.qid}">${ph}
     <div class="nm">${esc(p.name)} ${p.iv ? '<span class="badge-iv">INTERVIEWED</span>' : ""}</div>
-    <div class="st"><b>${nfmt(p.concerts)}</b> concert${p.concerts === 1 ? "" : "s"}${span ? ` · ${span}` : ""}${p.quotes ? ` · ${p.quotes} quote${p.quotes === 1 ? "" : "s"}` : ""}</div>
+    <div class="st"><b>${nfmt(p.concerts)}</b> concert${p.concerts === 1 ? "" : "s"}${span ? ` · ${span}` : ""}${p.quotes ? `<span class="q">${p.quotes} quote${p.quotes === 1 ? "" : "s"}</span>` : ""}</div>
   </a>`;
 }
 

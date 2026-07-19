@@ -135,6 +135,8 @@ p.sect-sub { color: var(--ink-2); font-size: 14px; margin-bottom: 16px; }
   overflow: hidden; color: inherit; display: block; transition: box-shadow .15s;
 }
 .pcard:hover { text-decoration: none; box-shadow: 0 2px 12px rgba(11,11,11,.09); }
+/* people with Carnegie Hall quotes — the interesting ones */
+.pcard .st .q { display: block; margin-top: 3px; color: var(--ch); font-weight: 700; font-size: 14px; }
 .pcard .ph {
   aspect-ratio: 1; background: #efeee9 center/cover no-repeat;
   display: flex; align-items: center; justify-content: center;
